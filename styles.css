@@ -71,10 +71,10 @@ body {
 
 @keyframes fly {
   from {
-    left: -150px;
+    left: -350px;
   }
   to {
-    left: 100%;
+    left: 300%;
   }
 }
 
