@@ -372,7 +372,7 @@ body.night .theme-toggle .moon {
 }
 
 .banner {
-  font-family: 'Pacifico', cursive;
+  font-family: Arial, Helvetica, sans-serif;
   background: linear-gradient(135deg, #ececec, #ee94ec);
   border-radius: 0px 0px 0px 0px;
   text-align: center;
